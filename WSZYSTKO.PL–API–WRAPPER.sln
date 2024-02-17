@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSZYSTKO.PL–API–WRAPPER", "WSZYSTKO.PL–API–WRAPPER\WSZYSTKO.PL–API–WRAPPER.csproj", "{DE126FC4-63CA-4F82-B958-ADD2E7BA8B46}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWrapperTestApp", "ConsoleApp1\APIWrapperTestApp.csproj", "{2711CCAD-259A-4ECC-A6D3-BF95A31603DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIWrapperTestApp", "APIWrapperTestApp\APIWrapperTestApp.csproj", "{54A3B25B-F364-4ACC-AF1C-16FA1DB21DCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DE126FC4-63CA-4F82-B958-ADD2E7BA8B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE126FC4-63CA-4F82-B958-ADD2E7BA8B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE126FC4-63CA-4F82-B958-ADD2E7BA8B46}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2711CCAD-259A-4ECC-A6D3-BF95A31603DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2711CCAD-259A-4ECC-A6D3-BF95A31603DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2711CCAD-259A-4ECC-A6D3-BF95A31603DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2711CCAD-259A-4ECC-A6D3-BF95A31603DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A3B25B-F364-4ACC-AF1C-16FA1DB21DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A3B25B-F364-4ACC-AF1C-16FA1DB21DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A3B25B-F364-4ACC-AF1C-16FA1DB21DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A3B25B-F364-4ACC-AF1C-16FA1DB21DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
