@@ -6,6 +6,8 @@
 [csharp]: https://pl.wikipedia.org/wiki/C_Sharp
 [dotnet]: https://learn.microsoft.com/pl-pl/dotnet/
 
+<br>
+
 ## Project Description
 <b>wszystko.pl_api-wrapper</b> is a C# .NET class library designed to serve as an API wrapper for interacting with wszystko.pl, streamlining integration for .NET developers.
 
