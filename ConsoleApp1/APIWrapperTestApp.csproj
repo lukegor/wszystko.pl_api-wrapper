@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <Authors>Łukasz Górski</Authors>
+	  <Copyright>Copyright © 2024 Łukasz Górski</Copyright>
+	  <RepositoryUrl>https://github.com/lukegor/wszystko.pl_api-wrapper</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WSZYSTKO.PL–API–WRAPPER">
+      <HintPath>..\WSZYSTKO.PL–API–WRAPPER\bin\Debug\net8.0\WSZYSTKO.PL–API–WRAPPER.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
